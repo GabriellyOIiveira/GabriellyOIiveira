@@ -1,10 +1,10 @@
-### Hello, World👋!!! Eu sou Gabrielly Oliveira. 😸
+### Hello, World👋!!! Eu sou Gabrielly Oliveira. ✭😸
 
 ##
 
-- 🔭 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (2/3) pelo SENAI.
-- ❤ Sou apaixonada por vôlei, desenhos e animais.
-- 🌱 Estudando HTML e CSS...
+- 🇧🇷  Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (2/3) pelo SENAI.
+- 🏐 Sou apaixonada por vôlei, desenhos e animais.
+- 🤓 Estudando HTML e CSS...
 
 ### 🏆 Tecnologias
   
