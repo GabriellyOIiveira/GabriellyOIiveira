@@ -1,4 +1,6 @@
-### Hello, World👋!!! Eu sou Gabrielly Oliveira. ✭😸
+<p align="center">
+  <img src="[https://github.com/GabriellyOIiveira/GabriellyOIiveira/blob/main/github.gif]" alt="Hello, World !!! Eu sou Gabrielly👋 Seja Bem-vindo ao meu perfil😸 ✭">
+</p>
 
 ##
 
