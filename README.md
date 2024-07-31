@@ -4,7 +4,7 @@
 
 ##
 <a href="#llaufabian-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabriellyOIiveira&show_icons=true&theme=shadow_red" alt="GabriellyOIiveira" align="right"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabriellyOIiveira&show_icons=true&theme=moltack" alt="GabriellyOIiveira" align="right"/>
 </a>
 
 - 🌼 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (2/3) pelo SENAI.
