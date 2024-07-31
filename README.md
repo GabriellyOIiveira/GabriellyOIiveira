@@ -3,6 +3,9 @@
 </p>
 
 ##
+<a href="#llaufabian-title">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabriellyOIiveira&show_icons=true&theme=dracula" alt="llaufabian" align="right"/>
+</a>
 
 - 🌼 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (2/3) pelo SENAI.
 - 🏐 Sou apaixonada por vôlei, desenhos e animais.
