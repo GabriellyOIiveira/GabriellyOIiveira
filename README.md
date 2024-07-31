@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github.gif" alt="Hello, World !!! Eu sou Gabrielly👋 Seja Bem-vindo ao meu perfil😸 ✭">
+  <img src="github-gaby.gif.gif" alt="Hello, World !!! Eu sou Gabrielly👋 Seja Bem-vindo ao meu perfil😸 ✭">
 </p>
 
 ##
