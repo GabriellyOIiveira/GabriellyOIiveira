@@ -9,7 +9,7 @@
 
 - 🌼 Aluna do SESI-PE, Cursando Desenvolvimento de Sistemas (3/3) pelo SENAI.
 - 🏐 Sou apaixonada por vôlei, desenhos e animais.
-- 🤓 Estudando HTML e CSS...
+- 🤓 Estudando HTML, CSS e Python...
 
 ### 🎮 Tecnologias ##
 ##
