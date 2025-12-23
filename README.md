@@ -22,6 +22,15 @@ Aqui você vai encontrar:
 - Experimentos com design e web.
 ##
 
+###📚 Cursos & Certificações
+- Desenvolvimento de Sistemas — SENAI  
+- HTML e CSS  
+- Web Design  
+- Python Básico  
+- Design Gráfico
+
+##
+
 ### 🎓 Curiosidade
 Além da tecnologia, o vôlei me ensinou disciplina, trabalho em equipe e foco — habilidades que levo para a área profissional.
 ##
