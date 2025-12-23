@@ -17,9 +17,10 @@
 
 ### 📌 Projetos
 Aqui você vai encontrar:
-- Projetos acadêmicos  
-- Exercícios de programação  
-- Experimentos com design e we
+- Projetos acadêmicos.
+- Exercícios de programação.
+- Experimentos com design e web.
+##
 
 ### ✨ Curiosidade
 Além da tecnologia, o vôlei me ensinou disciplina, trabalho em equipe e foco — habilidades que levo para a área profissional 🏐💻
