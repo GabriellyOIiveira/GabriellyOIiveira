@@ -9,12 +9,6 @@
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ##
 
-### 🕋 Onde me encontrar
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-##
-
 ### ♣️ Projetos
 Aqui você vai encontrar:
 - Projetos acadêmicos.
@@ -28,7 +22,12 @@ Aqui você vai encontrar:
 - Web Design  
 - Python Básico  
 - Design Gráfico
+##
 
+### 🕋 Onde me encontrar
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ##
 
 ### 🎓 Curiosidade
