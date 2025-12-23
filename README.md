@@ -22,7 +22,7 @@ Aqui você vai encontrar:
 - Experimentos com design e web.
 ##
 
-###📚 Cursos & Certificações
+### 📚 Cursos & Certificações
 - Desenvolvimento de Sistemas — SENAI  
 - HTML e CSS  
 - Web Design  
