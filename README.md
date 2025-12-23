@@ -22,5 +22,5 @@ Aqui você vai encontrar:
 - Experimentos com design e we
 
 ### ✨ Curiosidade
-##
 Além da tecnologia, o vôlei me ensinou disciplina, trabalho em equipe e foco — habilidades que levo para a área profissional 🏐💻
+##
