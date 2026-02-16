@@ -1,4 +1,5 @@
-- 🎓 Estudante de Desenvolvimento de Sistemas.
+- ♟️ Estudante de Sistemas da Informação. 
+- 🎓 Técnica de Desenvolvimento de Sistemas.
 - 🖤 Interessada em tecnologia, design e programação.
 - 🕶️ Sempre buscando aprender mais.
 ##
