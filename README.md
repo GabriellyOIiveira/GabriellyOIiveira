@@ -5,10 +5,13 @@
 ##
 
 ### 🎮 Tecnologias ##
+![TYPESCRIPT](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ##
+
+<a href=#><img src="contributions.svg"></a>
 
 ### ♣️ Projetos
 Aqui você vai encontrar:
