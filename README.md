@@ -1,4 +1,4 @@
-- ♟️ Estudante de Sistemas da Informação. 
+- ♟️ Estudante de Tecnologia de Sistemas para Internet. 
 - 🎓 Técnica de Desenvolvimento de Sistemas.
 - 🖤 Interessada em tecnologia, design e programação.
 - 🕶️ Sempre buscando aprender mais.
