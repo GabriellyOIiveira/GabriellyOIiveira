@@ -20,12 +20,16 @@ Aqui você vai encontrar:
 - Experimentos com design e web.
 ##
 
+### 🎓 Formação acadêmica
+- **Bacharelado em Tecnologia Sistemas para Internet** – Instituto Federal de Pernambuco | IFPE - Campus Igarassu *(2026 - atual)*  
+- **Técnico em Desenvolvimento de Sistemas** – Sesi/Senai Paulista *(2023 - 2025)*  
+##
+
 ### 📚 Cursos & Certificações
 - Desenvolvimento de Sistemas — SENAI  
-- HTML e CSS  
 - Web Design  
 - Python Básico  
-- Design Gráfico
+- Artes Visuais
 ##
 
 ### 🕋 Onde me encontrar
@@ -34,6 +38,5 @@ Aqui você vai encontrar:
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ##
 
-### 🎓 Curiosidade
-Além da tecnologia, o vôlei me ensinou disciplina, trabalho em equipe e foco — habilidades que levo para a área profissional.
+### “Entre erros e acertos, evoluindo.”
 ##
