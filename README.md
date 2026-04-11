@@ -13,6 +13,7 @@
 
 <a href=#><img src="contributions.svg"></a>
 
+##
 ### ♣️ Projetos
 Aqui você vai encontrar:
 - Projetos acadêmicos.
