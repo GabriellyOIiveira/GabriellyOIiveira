@@ -22,7 +22,7 @@ Aqui você vai encontrar:
 ##
 
 ### 🎓 Formação acadêmica
-- ** Cursando Graduação em Tecnologia Sistemas para Internet** – Instituto Federal de Pernambuco | IFPE - Campus Igarassu *(2026 - atual)*  
+- **Cursando Graduação em Tecnologia Sistemas para Internet** – Instituto Federal de Pernambuco | IFPE - Campus Igarassu *(2026 - atual)*  
 - **Técnico em Desenvolvimento de Sistemas** – Sesi/Senai Paulista *(2023 - 2025)*  
 ##
 
