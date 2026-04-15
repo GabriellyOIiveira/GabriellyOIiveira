@@ -28,7 +28,6 @@ Aqui você vai encontrar:
 
 ### 📚 Cursos & Certificações
 - Desenvolvimento de Sistemas — SENAI  
-- Web Design  
 - Python Básico  
 - Artes Visuais
 ##
